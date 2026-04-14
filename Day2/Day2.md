@@ -1,4 +1,4 @@
-## Data Analysis and Visualization
+# Data Analysis and Visualization
 1. EDA - Exploratory Data Analysis
     - Understanding Your Date before Modeling
     - Load, Inspect, Clean, Visualize and Exact Insight
@@ -12,3 +12,18 @@
 
 - 2.2. Feature Scaling
     - Adjusting feature value so they can be fit on similar scale.
+
+# Feature Engineering
+## Techniques
+- Imputation
+- Handling Outliers
+- Binning
+- Log Transform
+- One-Hot Encoding
+- Feature split
+- Scaling
+
+## Tools
+- Jupyter Notebook
+- Amazon Sagemaker
+- AWS Glue
