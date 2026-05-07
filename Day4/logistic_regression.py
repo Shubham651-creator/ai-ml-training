@@ -11,6 +11,7 @@ data = {
 dFrame = pd.DataFrame(data)
 print(dFrame)
 
+# Predication = x.w + b
 x = dFrame[["Hours_studied"]]
 y = dFrame["Pass"]
 
