@@ -1,0 +1,16 @@
+order_id,customer_name,product,quantity,price,date
+1001,Priya Sharma,Notebook,3,120,2024-01-05
+1002,Rahul Mehta,Pen Set,2,85,2024-01-07
+1003,Anita Desai,Notebook,1,120,2024-01-10
+1004,Priya Sharma,Stapler,1,250,2024-01-12
+1005,Vikram Nair,Pen Set,5,85,2024-01-15
+1006,Rahul Mehta,Notebook,2,120,2024-01-18
+1007,Sneha Iyer,Stapler,2,250,2024-01-20
+1008,Anita Desai,Pen Set,3,85,2024-01-22
+1009,Vikram Nair,Notebook,4,120,2024-01-25
+1010,Priya Sharma,Pen Set,1,85,2024-01-28
+1011,Sneha Iyer,Notebook,2,120,2024-02-02
+1012,Rahul Mehta,Stapler,1,250,2024-02-05
+1013,Anita Desai,Notebook,3,120,2024-02-08
+1014,Vikram Nair,Stapler,1,250,2024-02-10
+1015,Priya Sharma,Notebook,2,120,2024-02-14
