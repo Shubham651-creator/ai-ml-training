@@ -26,6 +26,6 @@
 - Learn actual pattern without memorization.
 
 ## Decision Tree Regressor Algorithm
-max_depth = 1  - underfit
-max_depth = 3  - depends
-max_depth = 20 - overfit
+- max_depth = 1  - underfit
+- max_depth = 3  - depends
+- max_depth = 20 - overfit
