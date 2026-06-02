@@ -4,7 +4,7 @@
 ## Machine Learning Problems
 
 1. Supervised(labled)
-    - Regression (Numerical ouput)
+    - Linear Regression (Numerical ouput)
     - Classification/ Logistic Regression (Categorical output)
         - Binary classification
         - Multi-class classification
