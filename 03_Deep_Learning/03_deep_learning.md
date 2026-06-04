@@ -23,6 +23,19 @@
 - Backpropogation traces backward and determines which weights contributed most to the error.
 
 ---
+### Overfitting, Validation Set, and Early stopping
+- Good training
+> Train Loss      ↓
+> Validation Loss ↓
+
+- Overfitting
+> Train Loss      ↓
+> Validation Loss ↑
+
+- Early stopping
+> To avoid overfitting issue
+
+---
 #### Deep Learning flow
 1. Forward Propagation - Make Prediction
 2. Loss Function - Measure Error
