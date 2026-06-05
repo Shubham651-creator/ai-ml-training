@@ -11,7 +11,23 @@
 
 - Forward propagation calculates two main components
     - Linear transformation
-    - Activation function
+    - ### Activation function
+        - ReLU
+            - for Hidden layer
+            - range: 0 to infinite
+            - Dying ReLU, Leaky ReLU
+
+        - Sigmoid 
+            - for binary & multi-label classfication
+            - range: 0 to 1
+
+        - Tanh
+            - for older RNNs, hidden layer
+            - range: -1 to 1
+
+        - Softmax 
+            - for multi-class classfication
+            - range: Probabilities sum to 1
 
 ---
 
@@ -40,5 +56,31 @@
 1. Forward Propagation - Make Prediction
 2. Loss Function - Measure Error
 3. Backpropagation - Find Which Weights Caused Error
-4. Gradient Descent - Optimizer - Update Weights
+4. Gradient Descent - Optimizer(Learning rate) - Update Weights
 5. Repeat Thousands of Times - Epoch 1000 - Network Learns
+
+-----
+-----
+## Convolutional Neural Network CNN
+- CNN cares more about PATTERNS than exact pixel location.
+
+- Feature Map & Sliding Window
+- Pooling
+- Flatten Layer
+
+---
+#### CNN work flow
+- Image
+- Filter (Kernel)
+- Sliding Window
+- Feature Map
+- Detect Edges
+- Detect Shapes
+- Detect Objects
+
+---
+#### Use Cases
+1. Face Recognition
+2. Image Classification
+3. Medical Imaging
+4. Self Driving Car
