@@ -84,3 +84,14 @@
 2. Image Classification
 3. Medical Imaging
 4. Self Driving Car
+
+----
+### Pre-trained Model & Transfer Learning
+- Transfer learning is take experienced model instead of train everything from zero
+
+1. Feature extraction
+    - Freeze some layers
+
+2. Fine-Tuning
+    - Train some deeper layers
+
