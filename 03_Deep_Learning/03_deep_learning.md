@@ -95,3 +95,46 @@
 2. Fine-Tuning
     - Train some deeper layers
 
+----
+### Performance Optimization Techniques
+#### Technique 1: Dropout
+- During training, Randomly disable neuron
+
+#### Technique 2: Batch Normalization 
+- Normalize activation like StandardScalar
+
+#### Technique 3: Data Augmentation
+- Create new training samples using old sample for training
+
+#### Technique 4: Learning Rate Scheduling
+
+#### Technique 5: Early Stopping
+
+----
+### Autoencoder
+
+    Input
+        |
+    Encoder (compress info)
+        |
+    Latent Space (contain essential info)
+        |
+    Decoder 
+        |
+    Recontruct Input
+
+----
+## PyTorch 
+- Pythonic
+- Research friendly
+- Easy Debugging
+
+### 1. Tensors
+- Automatic Differentiation
+
+----
+## Model Explainability & Interpretability
+1. Feature Importance
+2. SHAP (SHapley Additive exPlanations)
+3. LIME (Local Interpretable Model-Agnostic Explainations)
+4. Grad-CAM
