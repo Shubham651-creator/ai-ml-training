@@ -1,0 +1,75 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+venv/
+.env
+
+# User Documents
+
+data/pdfs/*.pdf
+
+# Keep folder structure
+
+!data/pdfs/.gitkeep
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Python Packaging
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# ChromaDB
+
+data/chroma_db/
+
+# Hugging Face Cache
+
+.cache/
+huggingface/
+
+# Pytest
+
+.pytest_cache/
+
+# Coverage
+
+.coverage
+htmlcov/
+
+# Temporary Files
+
+*.tmp
+*.swp
+
+# Secrets
+
+.env
+.env.local
+
+# Local Database
+
+*.sqlite3
+*.db
